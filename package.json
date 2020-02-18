@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-ts-styled",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "React Native template with Typescript, Styled System and Styled Components.",
   "files": [
     "template",
