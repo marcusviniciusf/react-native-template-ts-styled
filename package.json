@@ -1,0 +1,27 @@
+{
+  "name": "react-native-template-ts-styled",
+  "version": "0.0.1",
+  "description": "React Native template with Typescript, Styled System and Styled Components.",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcwL22/react-native-template-ts-styled.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "styled-system",
+    "styled-components",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Marcus Vinicius <marcusvnfilho@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcwL22/react-native-template-ts-styled/issues"
+  },
+  "homepage": "https://github.com/MarcwL22/react-native-template-ts-styled#readme"
+}
