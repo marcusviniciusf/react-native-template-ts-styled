@@ -1,4 +1,4 @@
 module.exports = {
-  placeholderName: 'HelloTypescript',
+  placeholderName: 'HelloWorld',
   templateDir: './template',
 }
