@@ -21,6 +21,7 @@
 - Husky
 - Prettier
 - React Navigation
+- Lint Staged
 
 ## Usage
 
@@ -28,9 +29,5 @@
 npx react-native init MyApp --template react-native-template-ts-styled
 ```
 
-## Examples
-- [Basic Example](https://github.com/MarcwL22/rn-typescript-styled)
-
 ## License
-
 [MIT License](LICENSE) 
